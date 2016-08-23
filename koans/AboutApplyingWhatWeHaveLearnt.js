@@ -82,6 +82,7 @@ describe("About Applying What We Have Learnt", function() {
     expect(ingredientCount['mushrooms']).toBe(undefined);
   });
 
+
   /*********************************************************************************/
   /* UNCOMMENT FOR ADVANCED */
   /*
